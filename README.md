@@ -8,3 +8,7 @@ This is a project from my early days when I was exploring features in css and ho
 
 
 Find it live here : https://justacoderguy.github.io/Netflix-Website-Clone/
+
+A screenshot : 
+
+![alt text](https://github.com/justAcoderguy/Netflix-Website_clone/blob/master/Screenshot%20from%202021-04-27%2023-01-58.png?raw=true)
